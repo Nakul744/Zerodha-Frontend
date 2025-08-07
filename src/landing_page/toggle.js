@@ -19,7 +19,7 @@ function Toggle() {
                 <ul className="dropdown-menu dropdown-menu-end mt-3 p-3" style={{ width: '100%', minWidth: '750px', right: 0 }}>
                     <div className="row g-2 pb-3 border-bottom">
                         <div className="col-6 col-md-3 text-center p-2">
-                            <a href="/login" target="_blank" rel="noopener noreferrer" className="dropdown-item d-flex flex-column align-items-center justify-content-center text-decoration-none text-dark">
+                            <a href="https://kite-dashboard.vercel.app/login" target="_blank" rel="noopener noreferrer" className="dropdown-item d-flex flex-column align-items-center justify-content-center text-decoration-none text-dark">
                                 <img src="media\images\kite-logo.svg" alt="Kite logo" className="img-fluid mb-2" style={{ maxWidth: '40px' }} />
                                 <h6 className="fw-bold mb-0 text-black">Kite</h6>
                                 <p className="small text-muted mb-0">Trading platform</p>
